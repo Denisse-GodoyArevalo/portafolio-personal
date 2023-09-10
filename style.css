@@ -1,0 +1,10 @@
+
+.th, .td{
+    border: solid 2px black;
+}
+.body{
+    font-family:sans-serif;
+}
+.p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
