@@ -1,10 +1,16 @@
 
-.th, .td{
+td,th{
     border: solid 2px black;
 }
-.body{
+body{
     font-family:sans-serif;
 }
-.p{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+p{
+    font-weight: bold;
+}
+.margen{
+    margin: 10px;
+}
+img{
+    margin-top: 10px;
 }
